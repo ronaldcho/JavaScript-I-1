@@ -1,3 +1,1 @@
-const triple = exampleArray.map(num => {
-//   num * 3;
-// });
+// console.log(`Car id 33 is a car year ${inventory[32].car_year}  car make ${inventory[32].car_make} car model ${inventory[32].car_model}`);
